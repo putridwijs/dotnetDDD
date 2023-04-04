@@ -1,0 +1,15 @@
+D:\net\billing-system-core\billing-system-core.Contracts\bin\Debug\net6.0\billing-system-core.Contracts.deps.json
+D:\net\billing-system-core\billing-system-core.Contracts\bin\Debug\net6.0\billing-system-core.Contracts.dll
+D:\net\billing-system-core\billing-system-core.Contracts\bin\Debug\net6.0\billing-system-core.Contracts.pdb
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.csproj.AssemblyReference.cache
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.AssemblyInfoInputs.cache
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.AssemblyInfo.cs
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.csproj.CoreCompileInputs.cache
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.dll
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\refint\billing-system-core.Contracts.dll
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.pdb
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\ref\billing-system-core.Contracts.dll
+D:\net\billing-system-core\billing-system-core.Contracts\bin\Debug\net6.0\billing-system-core.Domain.dll
+D:\net\billing-system-core\billing-system-core.Contracts\bin\Debug\net6.0\billing-system-core.Domain.pdb
+D:\net\billing-system-core\billing-system-core.Contracts\obj\Debug\net6.0\billing-system-core.Contracts.csproj.CopyComplete

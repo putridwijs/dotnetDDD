@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4T75/MQxBToorJaeUvJZ6RCQ5+yYP92Z1KrMlk0jCJxilBaUxQS6XQel0RI37hMqGxpaHcD/Irrq/c1iZuReJA==",
+  "success": true,
+  "projectFilePath": "D:\\net\\billing-system-core\\billing-system-core.Contracts\\billing-system-core.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

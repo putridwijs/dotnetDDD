@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>billing_system_core.Api</RootNamespace>
+    <UserSecretsId>e841eaa7-c142-4ece-83cf-dba6bccfe107</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0-preview.2.23128.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\billing-system-core.Contracts\billing-system-core.Contracts.csproj" />
+    <ProjectReference Include="..\billing-system-core.Application\billing-system-core.Application.csproj" />
+    <ProjectReference Include="..\billing-system-core.Infraastructure\billing-system-core.Infraastructure.csproj" />
+    <ProjectReference Include="..\billing-system-core.Infrastructure\billing-system-core.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

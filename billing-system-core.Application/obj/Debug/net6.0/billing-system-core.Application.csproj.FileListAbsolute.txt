@@ -1,0 +1,17 @@
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Application.deps.json
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Application.dll
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Application.pdb
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.csproj.AssemblyReference.cache
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.AssemblyInfoInputs.cache
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.AssemblyInfo.cs
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.csproj.CoreCompileInputs.cache
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.dll
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\refint\billing-system-core.Application.dll
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.pdb
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\ref\billing-system-core.Application.dll
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Domain.dll
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Domain.pdb
+D:\net\billing-system-core\billing-system-core.Application\obj\Debug\net6.0\billing-system-core.Application.csproj.CopyComplete
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Contracts.dll
+D:\net\billing-system-core\billing-system-core.Application\bin\Debug\net6.0\billing-system-core.Contracts.pdb

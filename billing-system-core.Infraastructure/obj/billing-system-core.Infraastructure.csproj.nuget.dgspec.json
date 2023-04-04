@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\net\\billing-system-core\\billing-system-core.Infraastructure\\billing-system-core.Infraastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\net\\billing-system-core\\billing-system-core.Application\\billing-system-core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net\\billing-system-core\\billing-system-core.Application\\billing-system-core.Application.csproj",
+        "projectName": "billing-system-core.Application",
+        "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Application\\billing-system-core.Application.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\net\\billing-system-core\\billing-system-core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\net\\billing-system-core\\billing-system-core.Contracts\\billing-system-core.Contracts.csproj": {
+                "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Contracts\\billing-system-core.Contracts.csproj"
+              },
+              "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj": {
+                "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\net\\billing-system-core\\billing-system-core.Contracts\\billing-system-core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net\\billing-system-core\\billing-system-core.Contracts\\billing-system-core.Contracts.csproj",
+        "projectName": "billing-system-core.Contracts",
+        "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Contracts\\billing-system-core.Contracts.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\net\\billing-system-core\\billing-system-core.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj": {
+                "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj",
+        "projectName": "billing-system-core.Domain",
+        "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Domain\\billing-system-core.Domain.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\net\\billing-system-core\\billing-system-core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\net\\billing-system-core\\billing-system-core.Infraastructure\\billing-system-core.Infraastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net\\billing-system-core\\billing-system-core.Infraastructure\\billing-system-core.Infraastructure.csproj",
+        "projectName": "billing-system-core.Infraastructure",
+        "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Infraastructure\\billing-system-core.Infraastructure.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\net\\billing-system-core\\billing-system-core.Infraastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\net\\billing-system-core\\billing-system-core.Application\\billing-system-core.Application.csproj": {
+                "projectPath": "D:\\net\\billing-system-core\\billing-system-core.Application\\billing-system-core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

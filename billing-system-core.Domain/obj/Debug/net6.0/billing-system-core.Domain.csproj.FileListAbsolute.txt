@@ -1,0 +1,12 @@
+D:\net\billing-system-core\billing-system-core.Domain\bin\Debug\net6.0\billing-system-core.Domain.deps.json
+D:\net\billing-system-core\billing-system-core.Domain\bin\Debug\net6.0\billing-system-core.Domain.dll
+D:\net\billing-system-core\billing-system-core.Domain\bin\Debug\net6.0\billing-system-core.Domain.pdb
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.csproj.AssemblyReference.cache
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.AssemblyInfoInputs.cache
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.AssemblyInfo.cs
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.csproj.CoreCompileInputs.cache
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.dll
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\refint\billing-system-core.Domain.dll
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\billing-system-core.Domain.pdb
+D:\net\billing-system-core\billing-system-core.Domain\obj\Debug\net6.0\ref\billing-system-core.Domain.dll

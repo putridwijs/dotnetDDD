@@ -1,0 +1,13 @@
+﻿using billing_system_core.Application.Authentication.Common;
+
+using ErrorOr;
+
+using MediatR;
+
+namespace billing_system_core.Application.Authentication.Commands.Register;
+
+public record RegisterCommand(
+    string FirstName,
+    string LastName,
+    string Email,
+    string Password) : IRequest<ErrorOr<AuthenticationResult>>;
